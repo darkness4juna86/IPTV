@@ -50,6 +50,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Vlcsnap-2013-10-15-21h32m34s250.png/revision/latest/top-crop/width/300/height/300?cb=20131216174819" group-title="KIDS", DISNEY JUNIOR INDONESIA
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS", MY KIDS
+http://rr2.dens.tv/s/s30/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQGEhWLSMMLXnA/company-logo_200_200/0?e=2159024400&v=beta&t=zbubkE7XfgosS3dm84V5wyy26TilW4e-jfs4paAylyM" group-title="KIDS", MY TV
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
@@ -68,11 +71,14 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="MOVIES", CELESTIAL MOVIES
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/eWzm3qt-sVMGC4BaDam7qVasxOon04TnvTkvjT7bOhIwIPzTs12i1xkDvjlpy0Ai8ElxlBSxSkbTAIkchfc0YO-w6iW-YT5UfkFzVkEjGj-sI6Kb-2lvHbL3RIXBXCDMTPEWlgxy" group-title="MOVIES", CINEMA WORLD
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png" group-title="NEWS", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1340800675_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="NEWS", BERITA SATU
-https://app-etslive-2.vidio.com/live/6165/master.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="NEWS", NHK WORLD
 http://rr.dens.tv/h/h23/index2.m3u8
@@ -86,8 +92,23 @@ http://rr.dens.tv/h/h03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1081256690287169537/LTMCKQ_l_400x400.jpg" group-title="NEWS", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/667042/euronews-squarelogo-1591714096217.png" group-title="NEWS", EURO NEWS
+http://rr2.dens.tv/s/s15/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.images.viaway.com/128964_180.png" group-title="NEWS", FRANCE 24
+http://rr2.dens.tv/s/s22/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923508008952279041/UbA6K2Wj_400x400.jpg" group-title="INDIA", ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2495310886/Fashion-TV.gif" group-title="VARIETY", FASHION TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mzmedia.asia/wp-content/uploads/2015/12/MZmedia-LOGO-Style-HD.jpg" group-title="VARIETY", STYLE HD
+http://rr.dens.tv/h/h01/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs_kr_indonesia.png" group-title="KOREA", SBS-IN
+http://rr.dens.tv/h/h28/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="KOREA", K+
+http://rr.dens.tv/h/h08/index2.m3u8
