@@ -14,6 +14,9 @@ https://cdn-livetv1.metube.id/hls/rtv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="INDONESIA", NET-TV
 https://www.youtube.com/embed/WZ83bBwWZQY?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
 
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEDNZ0BcKErOg/company-logo_200_200/0?e=2159024400&v=beta&t=B-Uvd4i7CbpCfK-BlApwiOAc0qaEVnbfXi0vyEH93v4" group-title="INDONESIA", I-NEWS
+https://www.youtube.com/embed/eYy646DwYPc?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
+
 #EXTINF:-1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="INDONESIA", INEWS
 https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
 
