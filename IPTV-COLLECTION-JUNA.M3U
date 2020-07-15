@@ -17,12 +17,6 @@ https://www.youtube.com/embed/WZ83bBwWZQY?autoplay=1&amp;rel=0&amp;controls=0&am
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEDNZ0BcKErOg/company-logo_200_200/0?e=2159024400&v=beta&t=B-Uvd4i7CbpCfK-BlApwiOAc0qaEVnbfXi0vyEH93v4" group-title="INDONESIA", I-NEWS
 https://www.youtube.com/embed/eYy646DwYPc?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
 
-#EXTINF:-1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="INDONESIA", INEWS
-https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="INDONESIA", I-NEWS
-https://app-etslive-2.vidio.com/live/5409/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/qpzb56B3ZNXe50laZhyA.png" group-title="INDONESIA", ANTV
 https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=185154592&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEyOjA0OjIyIEFNJmhhc2hfdmFsdWU9NGsrUk1lTDBCYzFKVW50ZEhIRkp4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTExNjU5OHwxMzkuMTkyLjE0Ny41MA==
 
@@ -42,25 +36,16 @@ https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
 https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T5put7ZkErOutaz0ZJcjN6gIoOI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg" group-title="INDONESIA", METRO TV
-https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSy0M5-hpfj4epMUmI9HvGQk)/dm/3/x75p70w/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0lreR-gvEjUYCxTSzSAKfnQ-vBc=/smart/filters:quality(90):strip_icc()/vidio-web-prod-user/uploads/user/avatar/578978/tvone-dcc5a8.jpg" group-title="INDONESIA", TV-ONE
 https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybD6w5_ar66eBzdE6gnBN81U)/dm/3/x619221/s/live-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0lreR-gvEjUYCxTSzSAKfnQ-vBc=/smart/filters:quality(90):strip_icc()/vidio-web-prod-user/uploads/user/avatar/578978/tvone-dcc5a8.jpg" group-title="INDONESIA", TV-ONE
-https://token-media-vidio-com.akamaized.net/exp=1594796294~acl=/uploads/1899492/*~hmac=d728acbb691cc3ada9dd40da383a9edcd70402f291797bd35bdf585a1e9fde7d/uploads/1899492/ets-selebgram-20sesasional-20lucinta-20luna-20ditangkap-20polisi-20kedapatan-20membawa-20narkoba-b745_1262ba26_med-high.mp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA", TVRI (MeTube)
-https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA", TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Vlcsnap-2013-10-15-21h32m34s250.png/revision/latest/top-crop/width/300/height/300?cb=20131216174819" group-title="KIDS", DISNEY JUNIOR INDONESIA
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Vlcsnap-2013-10-15-21h32m34s250.png/revision/latest/top-crop/width/300/height/300?cb=20131216174819" group-title="KIDS", DISNEY JUNIOR ENGLISH
-http://hls.123tv.live/ch/dtxgcdTGSogK0c_Ui80eQA/1594795478/disneyjr.m3u8
 
 #EXTINF:-1 tvg-logo="https://afbupp.expressions.syr.edu/wp-content/uploads/2017/11/disney-logo-evolution-6-e1510355288637.jpg" group-title="KIDS", DISNEY CHANNEL
 http://hls.123tv.live/ch/aBRiusD8gZ8ipB3mvbo7fQ/1594795545/disney.m3u8
