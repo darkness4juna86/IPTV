@@ -50,6 +50,15 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Vlcsnap-2013-10-15-21h32m34s250.png/revision/latest/top-crop/width/300/height/300?cb=20131216174819" group-title="KIDS", DISNEY JUNIOR INDONESIA
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Vlcsnap-2013-10-15-21h32m34s250.png/revision/latest/top-crop/width/300/height/300?cb=20131216174819" group-title="KIDS", DISNEY JUNIOR ENGLISH
+http://hls.123tv.live/ch/dtxgcdTGSogK0c_Ui80eQA/1594795478/disneyjr.m3u8
+
+#EXTINF:-1 tvg-logo="https://afbupp.expressions.syr.edu/wp-content/uploads/2017/11/disney-logo-evolution-6-e1510355288637.jpg" group-title="KIDS", DISNEY CHANNEL
+http://hls.123tv.live/ch/aBRiusD8gZ8ipB3mvbo7fQ/1594795545/disney.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/201-2019978_disney-xd-logo-disney-xd-logo-png-transparent.png" group-title="KIDS", DISNEY XD
+http://hls.123tv.live/ch/57h4cl8fxSV47ewCm7u3AA/1594795685/disneyxd.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS", MY KIDS
 http://rr2.dens.tv/s/s30/index2.m3u8
 
@@ -112,3 +121,6 @@ http://rr.dens.tv/h/h28/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="KOREA", K+
 http://rr.dens.tv/h/h08/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="KOREA", KDrama
+http://rr2.dens.tv/s/s42/index2.m3u8
