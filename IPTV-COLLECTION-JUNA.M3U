@@ -12,7 +12,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1794598491_b544100_
 hhttps://video.detik.com/transtv/smil:transtv.smil/chunklist_w479468244_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_big.png" group-title="INDONESIA", KOMPAS TV
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G69BSbUCpj2cjqPJ_FCIVK0)/dm/3/x6pz4sa/d/live-2.m3u8
+https://www.youtube.com/embed/gIB2egm7tL8?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="INDONESIA", RTV
 https://cdn-livetv1.metube.id/hls/rtv_480/index.m3u8
@@ -21,10 +21,10 @@ https://cdn-livetv1.metube.id/hls/rtv_480/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598897781/ei/FepMX7n3FovYvQT_zLyoCQ/ip/118.137.101.204/id/MSQhwpYQbtQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-4pgnuhxqp5-jb3s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4110/mh/fK/mm/44/mn/sn-4pgnuhxqp5-jb3s/ms/lva/mv/m/mvi/3/pl/19/dover/11/keepalive/yes/beids/9466588/mt/1598876119/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAKsoyOJYBN17xOvQIt9MaErgYAzQCdJjuN8h9TVIV3HFAiBpw3-Ju3z-NI48ONPSJ70dJRW9lOI6YtITLYjOHnn0eg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAI1aqoz8n-YhtaMVH3cwFfw_bIRVSsLafsQrXPS2FiCfAiAgbnw15aGtN6yibAPDQ8DCVLZ5gaNDLnxBok6FqGkmGQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="INDONESIA", NET-TV
-https://www.youtube.com/embed/WZ83bBwWZQY?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
+https://www.youtube.com/embed/MSQhwpYQbtQ?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
 
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEDNZ0BcKErOg/company-logo_200_200/0?e=2159024400&v=beta&t=B-Uvd4i7CbpCfK-BlApwiOAc0qaEVnbfXi0vyEH93v4" group-title="INDONESIA", I-NEWS
-https://www.youtube.com/embed/eYy646DwYPc?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
+https://www.youtube.com/embed/sGBLKpBknLE?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/qpzb56B3ZNXe50laZhyA.png" group-title="INDONESIA", ANTV
 https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=185154592&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEyOjA0OjIyIEFNJmhhc2hfdmFsdWU9NGsrUk1lTDBCYzFKVW50ZEhIRkp4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTExNjU5OHwxMzkuMTkyLjE0Ny41MA==
