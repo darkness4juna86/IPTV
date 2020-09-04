@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="INDONESIA", TRANS 7 (Opt.1)
-https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3cswoqym_GVy9v7q5kOkg8)/dm/3/x6p1gw7/s/live-2.m3u8
+https://www.dailymotion.com/embed/video/x6p1gw7?autoplay=1&related=0&queue-enable=false
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="INDONESIA", TRANS 7 (Opt.2)
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="INDONESIA", TRANS 7 (Opt.3)
+https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3cswoqym_GVy9v7q5kOkg8)/dm/3/x6p1gw7/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="INDONESIA", TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
